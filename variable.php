@@ -8,7 +8,7 @@
 <body>
     <?php
         $first_variable = 6;
-        $second_variable = "Md Salman KH";
+        $second_variable = "Md Salman Khan";
         // echo first Variable
         echo $first_variable;
         echo "<br>";
